@@ -10,7 +10,7 @@ A C implementation of fundamental computer graphics algorithms including Bresenh
 - **Interactive Canvas**: Real-time visualization with coordinate system
 
 ## Prerequisites
-
+![Project Screenshot]("View Interface.png")
 ### Windows
 
 1. **Install MinGW-w64** (for GCC compiler)
